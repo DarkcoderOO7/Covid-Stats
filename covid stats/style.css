@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%) ;   
+}
+.col-md-10{
+    /* background-color: aliceblue !important; */
+    margin-top: 100px !important;
+}
+h1{
+    background-color: rgb(76, 76, 240);
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #c91e24 !important;
+}
+input{
+    border: 2px solid hsl(0, 0%, 0%) !important;
+    margin-bottom: 2px !important; 
+}
+table{
+    border: 2px solid black !important;
+    width: 100% !important;
+    margin-top: 30px !important;
+}
